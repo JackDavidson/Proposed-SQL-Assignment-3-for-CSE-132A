@@ -37,10 +37,32 @@ public class PA3
 
 
     System.out.println("=== MARKS START OF STUDENT OUTPUT. DO NOT REMOVE ===");
+
     // ======== YOUR CODE HERE ==========
 
-
+    Dataset<Row> q1 = spark.sql("SELECT 'ANSWER Q1 HERE'");
+    Dataset<Row> q2 = spark.sql("SELECT 'ANSWER Q2 HERE'");
+    Dataset<Row> q3 = spark.sql("SELECT 'ANSWER Q3 HERE'");
+    Dataset<Row> q4 = spark.sql("SELECT 'ANSWER Q4 HERE'");
+    Dataset<Row> q5 = spark.sql("SELECT 'ANSWER Q5 HERE'");
+    Dataset<Row> q6 = spark.sql("SELECT 'ANSWER Q6 HERE'");
+    Dataset<Row> q7 = spark.sql("SELECT 'ANSWER Q7 HERE'");
 
     // ======== END YOUR CODE  ==========
+
+    System.out.println("=== QUESTION 1 ===");
+    q1.show();
+    System.out.println("=== QUESTION 2 ===");
+    q2.show();
+    System.out.println("=== QUESTION 3 ===");
+    q3.show();
+    System.out.println("=== QUESTION 4 ===");
+    q4.show();
+    System.out.println("=== QUESTION 5 ===");
+    q5.show();
+    System.out.println("=== QUESTION 6 ===");
+    q6.show();
+    System.out.println("=== QUESTION 7 ===");
+    q7.show();
   }
 }
