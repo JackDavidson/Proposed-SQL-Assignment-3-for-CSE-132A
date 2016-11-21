@@ -1,9 +1,9 @@
 {"id":"c9fe59fd-0d15-4fc9-80d2-7da0c3d51edd", "type":"created", "sailor":{"name":"Andy", "rating":8}, "boat":{"name":"Interlake", "color":"red", "rating":8}, "day": "Monday"}
 {"id":"866d7d37-fb4c-436d-926d-0687f446c21b", "type":"created", "sailor":{"name":"Andy", "rating":8}, "boat":{"name":"Bay", "color":"red", "rating":3}, "day": "Wednesday"}
-{"id":"df53b492-5292-4a6f-84af-cfb0f311860f", "type":"created", "sailor":{"name":"Andy", "rating":8}, "boat":{"name":"Marine", "color":"blue", "rating":7}, "day": "Saturday"}
+{"id":"df53b492-5292-4a6f-84af-cfb0f311860f", "type":"created", "sailor":{"name":"Andy", "rating":7}, "boat":{"name":"Marine", "color":"blue", "rating":9}, "day": "Saturday"}
 {"id":"3d4a5175-9d72-4588-af3e-cf73e53d38ea", "type":"created", "sailor":{"name":"Rusty", "rating":8}, "boat":{"name":"Bay", "color":"red", "rating":3}, "day": "Sunday"}
 {"id":"a9e168ba-525d-4e4a-a309-bd7244e8673d", "type":"created", "sailor":{"name":"Rusty", "rating":8}, "boat":{"name":"Interlake", "color":"red", "rating":8}, "day": "Wednesday"}
-{"id":"921eef48-9054-4e4b-a5f7-1c38ae992151", "type":"created", "sailor":{"name":"Rusty", "rating":8}, "boat":{"name":"Marine", "color":"blue", "rating":7}, "day": "Wednesday"}
-{"id":"e43a3d3d-2ea2-4912-a49c-dd81142335fa", "type":"created", "sailor":{"name":"Bob", "rating":1}, "boat":{"name":"Bay", "color":"red", "rating":3}, "day": "Monday"}
+{"id":"921eef48-9054-4e4b-a5f7-1c38ae992151", "type":"created", "sailor":{"name":"Rusty", "rating":8}, "boat":{"name":"Marine", "color":"blue", "rating":9}, "day": "Wednesday"}
+{"id":"e43a3d3d-2ea2-4912-a49c-dd81142335fa", "type":"created", "sailor":{"name":"Bob", "rating":4}, "boat":{"name":"Bay", "color":"red", "rating":3}, "day": "Monday"}
 {"id":"e43a3d3d-2ea2-4912-a49c-dd81142335fa", "type":"canceled", "sailor":{"name":"TrpdInDbFactory", "rating":null}, "boat":{"name":null, "color":null, "rating":null}, "day": null}
 {"id":"df53b492-5292-4a6f-84af-cfb0f311860f", "type":"canceled", "sailor":{"name":null, "rating":null}, "boat":{"name":null, "color":null, "rating":null}, "day": null}
